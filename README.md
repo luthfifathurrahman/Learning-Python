@@ -16,3 +16,13 @@ Below is a compilation of Python code that I have crafted:
 8. Pizza Delivery
 9. Love Calculator
 10. Treasure Island Game
+11. Random Module
+12. Coin Head or Tail
+13. Banker Roulette
+14. Treasure Map
+15. Rock Paper Scissors
+16. Average Height
+17. Highest Score
+18. Adding Even Number
+19. FizzBuzz Game
+20. Password Generator
