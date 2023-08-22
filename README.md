@@ -26,3 +26,12 @@ Below is a compilation of Python code that I have crafted:
 18. Adding Even Number
 19. FizzBuzz Game
 20. Password Generator
+21. Hangman Game
+22. Function
+23. Paint Area Calculator
+24. Prime Number Checker
+25. Caesar Cipher
+26. Dictionary
+27. Grading Program
+28. Nesting Dictionary
+29. Auction Program
