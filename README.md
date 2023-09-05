@@ -35,3 +35,10 @@ Below is a compilation of Python code that I have crafted:
 27. Grading Program
 28. Nesting Dictionary
 29. Auction Program
+30. Days in Month
+31. Simple Calculator
+32. Balckjack Game
+33. Scope
+34. The Number Guessing Game
+35. Debugging
+36. Higher or Lower
