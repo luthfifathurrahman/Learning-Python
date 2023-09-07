@@ -42,3 +42,4 @@ Below is a compilation of Python code that I have crafted:
 34. The Number Guessing Game
 35. Debugging
 36. Higher or Lower
+37. Coffee Machine
